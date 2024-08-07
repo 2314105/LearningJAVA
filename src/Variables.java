@@ -23,6 +23,7 @@ public class Variables {
         boolean t = true;
         char symbol = '@'; // only displays one character
         String name = "hello world";
+        final double pi = 3.14159; // Final key word stops the varible from being changed
 
         System.out.println(x);
         System.out.println(y);
@@ -48,6 +49,8 @@ public class Variables {
 
         System.out.println(a);
         System.out.println(b);
+
+
 
 
     }
